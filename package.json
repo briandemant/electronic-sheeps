@@ -1,0 +1,20 @@
+{
+  "name": "electronic-sheeps",
+  "version": "0.0.1",
+  "description": "The 'browser' part of the screens",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/briandemant/eletronic-sheeps",
+  "keywords": [
+    "Electron",
+    "Screen"
+  ],
+  "author": "Brian Demant <brian.demant@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^1.6.10"
+  }
+}
